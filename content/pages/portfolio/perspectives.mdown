@@ -7,6 +7,8 @@ Image: perspectives-mrc.png
 
 ![Alt text](/attachments/perspectives-mrc.png "Perspectives website front page")
 
+A stand alone responsive microsite designed and built for the Medical Research Council's end of year review. Built using Nesta CMS and hosted on Heroku.
+
 ### Elsewhere
 
 * [Perspectives](http://perspectives.mrc.ac.uk/)
