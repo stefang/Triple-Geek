@@ -1,0 +1,18 @@
+Date: 1 October 2010
+Categories: portfolio
+Tags: Design, jQuery, HTML, CSS
+Image: futurelab.jpg
+
+# Futurelab
+
+![Alt text](/attachments/futurelab.jpg "Futurelab website front page")
+
+After working with [Futurelab](http://futurelab.org.uk) on [Infocow](http://infocow.org.uk) they approached me to work alongside their in house designer &mdash; Ben Carruthers &mdash; to work on the new clean look for their website. Based on initial sketches by Ben we worked in the browser defining the look and feel for the templates. We focussed on defining a suitable grid and vertical rhythm for the content and getting a very clean readable layout, enriched by the use of bold colours and the house typeface &mdash; Rockwell &mdash; to set the headings and on the front page, a large illustration that spans the full width of the browser.
+
+I then polished and browser tested these static html &amp; css templates and delivered them to the fine chaps at [ThoughtDen](http://thoughtden.co.uk) to turn them into a Drupal theme to use on the real site.
+
+### Elsewhere
+
+* [Futurelab](http://futurelab.org.uk)
+* Ben Carruthers
+* [ThoughtDen](http://thoughtden.co.uk)

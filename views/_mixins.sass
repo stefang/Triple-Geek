@@ -1,0 +1,27 @@
+@mixin border-radius($radius)
+  -webkit-border-radius: $radius
+  -moz-border-radius: $radius
+  border-radius: $radius
+
+@mixin transition($definition)
+  -moz-transition: $definition
+  -o-transition: $definition
+  -webkit-transition: $definition
+  transition: $definition
+  
+@mixin size-transition
+  $d: .07s
+  -webkit-transition: border-color $d linear, width $d linear, height $d linear, top $d linear, right $d linear
+  
+@mixin rotate($degrees)
+  -moz-transform: rotate($degrees)
+  -o-transform: rotate($degrees) 
+  -webkit-transform: rotate($degrees)
+  filter: progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', M11=#{cos($degrees)}, M12=-#{sin($degrees)}, M21=#{sin($degrees)}, M22=#{cos($degrees)})
+  -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', M11=#{cos($degrees)}, M12=-#{sin($degrees)}, M21=#{sin($degrees)}, M22=#{cos($degrees)})"
+  zoom: 1
+  
+@mixin box-shadow($definition)
+  -webkit-box-shadow: $definition
+  -moz-box-shadow: $definition
+  box-shadow: $definition

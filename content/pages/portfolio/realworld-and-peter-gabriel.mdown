@@ -1,0 +1,26 @@
+Date: 1 September 2007
+Categories: portfolio
+Tags: Code, Design, PHP, jQuery, HTML, CSS
+Image: petergabriel.jpg
+
+# Realworld <span class="amp">&amp;</span> Peter Gabriel 
+
+![Alt text](/attachments/petergabriel.jpg "Peter Gabriel website front page")
+
+Between 2002 and 2009 I worked full time as part of the team at Real World Multimedia. A small team &mdash; only three people &mdash; we were responsible for most of the digital output from Realworld, Realworld Studios, WOMAD and Peter Gabriel including all the web sites, online shops, ticketing systems (for WOMAD Charlton Park), DVDs and the enhanced sections of a few CD releases. Additionally we were creating a lot of the video content used by Realworld Records and Peter Gabriel as part of their marketing.
+
+## Real World Remixed
+
+Recently revived the Real World Remixed project was sort of my baby. I developed and designed the look of the site. Launched back in 2007 it was one of the few artist sanctioned dedicated remix sites. Users can download 'sample packs' &mdash; specially prepared audio loops &mdash; load them into their sequencer of choice and remix to their hearts content. Once the masterpiece is finished they can upload an MP3 for other members to listen to, vote and comment on. Weekly charts are prepared and competitions run where the best remix of a particular track wins a prize, usually something pretty special such as spending a day at Real World Studios itself mixing a track.
+
+## WOMAD &amp; WOMADshop
+
+
+
+## Peter Gabriel
+
+The redesigned Peter Gabriel site is not only an information rich website broadcasting news and video to his fans it also has a few social features tucked away in there as well. The custom built forum with private messaging is used heavily and is completely integrated with the website. There are also areas where fans can upload photos that they took at Peter's concerts which is very popular.
+
+http://www.petergabriel.com/
+http://www.petergabriel.com/forums/
+http://www.petergabriel.com/live/gallery/

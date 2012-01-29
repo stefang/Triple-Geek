@@ -1,0 +1,29 @@
+Date: 20 March 2011
+Categories: portfolio
+Tags: Code, Design, Motion Graphics, Video, Processing
+Image: wallflower-1.png
+
+# Peter Gabriel - New Blood 2011
+
+<div class="carousel">
+  <ul class="slider" id="slider1">
+    <li class="slide"><img src="/attachments/wallflower-1.png" alt="Wallflower"></li>
+    <li class="slide"><img src="/attachments/wallflower-2.png" alt="Wallflower"></li>
+    <li class="slide"><img src="/attachments/wallflower-3.png" alt="Wallflower"></li>
+  </ul>
+</div>
+*The initial article about the 2010 tour visuals is [here](/portfolio/peter-gabriel-new-blood-2010)*
+
+The tour machine rumbled round the globe and on it's way new songs were added to the set list. When it was due to be filmed the production needed some tweaks to existing content and some new content for the show and so I headed back &mdash; with the rest of the Content Stable &mdash; into the the rehearsal space and then onward to the Hammersmith Apollo.
+
+I spent most of my time fiddling with (and breaking!) [wBlut](http://www.wblut.com/)'s brilliant [Hemesh](http://www.wblut.com/2010/05/04/hemesh-a-3d-mesh-library-for-processing/) library to create a series of geometric glowing structures for the song Wallflower to represent the prison cells referenced in the song. [wBlut](http://www.wblut.com/) helped enormously and even rewrote parts of the library to fix issues I was having which was hugely appreciated.
+
+A mixture of animated Voronoi separation based on audio reactive particles bouncing around a constrained box, cell extrusion and a number of other fancy things along with a hefty dollop of dust motes and glow filters. Backface culled wireframes were in full attendance which triggered much reminiscing with Rob S about loosing hours of our youth playing David Braben and Ian Bell's space trading game '[Elite](http://en.wikipedia.org/wiki/Elite_%28video_game%29)'.
+
+### The Peter Gabriel 2011 Content Stable
+
+* [Rob Sinclair](http://www.robsinclair.com/) - Lighting Director
+* [Archie Sinclair](http://ditchweed.co.uk/)
+* [Dave Packer](http://sheepfilms.co.uk/)
+* [Benny Crime](http://www.bennycrime.com/)
+* Stefan Goodchild

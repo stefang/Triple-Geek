@@ -1,0 +1,26 @@
+!!!
+%html(lang="en")
+  %head
+    %meta(charset="utf-8")
+    - if @description
+      %meta(name="description" content=@description)
+    - if @keywords
+      %meta(name="keywords" content=@keywords)
+    %meta(name="viewport" content="width=device-width")
+    %title= Sanitize.clean(@title)
+    %link(rel="stylesheet" href="http://f.fontdeck.com/s/css/sePPdcOgoBUkEL7vkpE7zhMLioE/stefangoodchild.com/2477.css" type="text/css")
+    %link(href="/css/master.css" media="screen" rel="stylesheet")
+    %link(href="/articles.xml" rel="alternate" type="application/atom+xml")
+    %script(src="/javascripts/jquery.js")
+    %script(src="/javascripts/jquery.fittext.js")
+    %script(src="/javascripts/jquery.dynamic-carousel.js")
+    %script(src="/javascripts/application.js")
+    = haml :analytics, :layout => false
+  %body
+    = haml :header, :layout => false
+    %nav.breadcrumb
+      - display_breadcrumbs
+    %section#main
+      .inner  
+        = yield
+    = haml :footer, :layout => false
