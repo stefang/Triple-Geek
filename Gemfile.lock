@@ -12,6 +12,7 @@ GEM
       sinatra (= 1.2.6)
     nokogiri (1.5.0)
     rack (1.4.1)
+    rack-rewrite (1.0.2)
     rdiscount (1.6.8)
     sanitize (2.0.3)
       nokogiri (>= 1.4.4, < 1.6)
@@ -28,4 +29,5 @@ PLATFORMS
 
 DEPENDENCIES
   nesta (= 0.9.11)
+  rack-rewrite (~> 1.0.0)
   sanitize
