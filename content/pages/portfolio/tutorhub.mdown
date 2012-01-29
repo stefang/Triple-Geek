@@ -17,3 +17,8 @@ Image: tutorhub-front-page.png
 Tutorhub is a real time online tutoring website aimed at GCSE age children. I was responsible for Product Management, UX, visual design, UI and front end development. I prototyped using paper, wireframes and custom interactive prototypes of new features and UI designs using Sinatra and jQuery which enabled me to quickly pull them together. I then tested with end users to get real feedback on the interaction before committing valuable development time to implement. I also developed digital prototypes to define the markup and design the stylesheets that can be dropped into the Tutorhub application. The developers then used my mockups as guides for the markup and then drop in the stylesheets (written in SASS) directly into the Rails app.
 
 Jiva is a Ruby on Rails shop and develop using Agile methodology so picked up skills in iterative development and design processes. I was also responsible for creating and managing the priority of the Pivotal Tracker job cards which the developers use to manage their iteration and represented the end user during the iteration planning meetings when arguing for feature priority. 
+
+### Elsewhere
+
+* [Tutorhub](http://tutorhub.com/)
+* [Jiva Technology](http://jivatechnology.com/)
