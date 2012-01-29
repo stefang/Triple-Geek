@@ -11,6 +11,7 @@ require 'nesta/app'
 use Rack::Rewrite do
   r301 %r{.*}, 'http://triplegeek.com$&', :if => Proc.new {|rack_env|
     rack_env['SERVER_NAME'] != 'triplegeek.com'
+  }
 end
 
 run Nesta::App
