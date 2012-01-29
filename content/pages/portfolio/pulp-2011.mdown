@@ -18,7 +18,7 @@ Asked by [Rob Sinclair](http://www.robsinclair.com/) to once more join the 'Cont
 
 The two bits of work I did that made it into the show were the disco floor animations for [Disco 2000](http://vimeo.com/25977964) and the neon light patterns and shapes for Common People. Sequences of generative animation for different sections of the songs were created and triggered live by [Rob](http://www.robsinclair.com/) from the lighting desk.
 
-*Fun fact: The LED screens arrays are 2 metres square yet only have a resolution of 48 pixels x 48 pixels.*
+*Fun fact: The LED screen arrays are 2 metres square yet only have a resolution of 48 pixels x 48 pixels.*
 
 ### Elsewhere
 
