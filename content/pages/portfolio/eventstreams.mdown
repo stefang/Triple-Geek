@@ -11,5 +11,4 @@ Originally devised by [Matt Jukes](http://digitalbydefault.com/) I developed thi
 
 ### Elsewhere
 
-* [Eventstreams](http://eventstreamsapp.com)
 * [Matt Jukes](http://digitalbydefault.com/)
