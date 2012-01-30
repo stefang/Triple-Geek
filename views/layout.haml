@@ -8,11 +8,9 @@
       %meta(name="keywords" content=@keywords)
     %meta(name="viewport" content="width=device-width")
     %title= Sanitize.clean(@title)
-    
-    <link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-    <link href="/images/favicon.png" rel="icon" type="image/png">
-    
-    <script type="text/javascript" src="http://use.typekit.com/mrx0ypt.js"></script>
+    %link(href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon")
+    %link(href="/images/favicon.png" rel="icon" type="image/png")
+    %script(type="text/javascript" src="http://use.typekit.com/mrx0ypt.js")
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     %link(href="/css/master.css" media="screen" rel="stylesheet")
     %link(href="/articles.xml" rel="alternate" type="application/atom+xml")
