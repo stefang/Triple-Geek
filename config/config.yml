@@ -54,6 +54,8 @@ content: content
 #
 # google_analytics_code: "UA-???????-?"
 
+
+
 # Overriding "cache" and "content" in production is recommended if you're
 # deploying Nesta to your own server (but see the deployment documentation
 # on the Nesta site). Setting google_analytics_code in production is
@@ -61,7 +63,7 @@ content: content
 #
 # Don't forget to uncomment the "production:" line too...
 
-# production:
-#   cache: true    
-#   content: /var/apps/nesta/shared/content
-#   google_analytics_code: "UA-???????-?"
+production:
+  # cache: true    
+  # content: /var/apps/nesta/shared/content
+  google_analytics_code: "UA-4536244-6"
