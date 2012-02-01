@@ -1,11 +1,19 @@
 Date: 1 September 2011
-Categories: portfolio
+Categories: portfolio/web
 Tags: Design, jQuery, HTML, CSS, Nesta
 Image: perspectives-mrc.png
 
 # Perspectives
 
-![Alt text](/attachments/perspectives-mrc.png "Perspectives website front page")
+[![Alt text](/attachments/perspectives-mrc.png "Perspectives website front page")](http://perspectives.mrc.ac.uk/)
+
+## A responsive microsite to showcase the Medical Research Council's Annual Review
+
+<ul class="skills">
+  <li>UI design</li>
+  <li>Visual design</li>
+  <li>Development</li>
+</ul>
 
 A stand alone responsive microsite designed and built for the Medical Research Council's end of year review. Built using Nesta CMS and hosted on Heroku.
 

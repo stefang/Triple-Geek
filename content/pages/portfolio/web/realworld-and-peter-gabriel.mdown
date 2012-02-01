@@ -1,7 +1,8 @@
 Date: 1 September 2007
-Categories: portfolio
+Categories: portfolio/web
 Tags: Code, Design, PHP, jQuery, HTML, CSS
 Image: petergabriel.jpg
+Flags: draft
 
 # Realworld <span class="amp">&amp;</span> Peter Gabriel 
 

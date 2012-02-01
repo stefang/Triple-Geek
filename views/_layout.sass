@@ -107,6 +107,11 @@ body
         float: left
       article
         width: 66%
+        margin-bottom: 20px
+        border: 
+          width: 0 0 1px 0
+          style: solid 
+          color: #ddd
         p.intro
           padding: 20px 0 19px
           border: 
@@ -124,6 +129,17 @@ body
         width: 32%
         margin-left: 2%
     article.main
+      ul.skills
+        overflow: auto
+        li
+          display: block
+          float: left
+          padding: 0px 8px
+          background: #ccc
+          +border-radius(12px)
+          margin-right: 3px
+          margin-bottom: 3px
+          font-size: 12px
       div.carousel
         max-width: 400px
         position: relative

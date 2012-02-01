@@ -10,12 +10,19 @@
           &amp;
         developer
       living in Bristol, UK
+  
     %p I believe in great design that focuses on the user experience and rapidly prototyping using Ruby on Rails, Sinatra, Wordpress and jQuery. I also create visuals with code using Processing and openFrameworks for concerts and installations.
-    %p When I'm not busy doing either of those I'm probably with my two young boys, cycling over the hills near Bristol, half way up a climbing gym wall, in the middle of nowhere in a tent planning the next hike or trying to find the best old school real ale pub in Bristol.
+    %p When I'm not busy working I'm usually cycling over the hills around Bristol with my two young boys, half way up a climbing wall, sitting in a tent planning my next hike or trying to find the best real ale pub in Bristol.
     %p 
       If you would like me to work with you on a project please 
       %a(href="mailto:contact@triplegeek.com") get in touch.
   %aside
 
 %section.article_lists.portfolio
-  - article_list_for(nil, 'portfolio', 9)
+  %h2 
+    %a(href="portfolio/web") Websites
+  - article_list_for(nil, 'portfolio/web', 6)
+%section.article_lists.portfolio
+  %h2 
+    %a(href="portfolio/visuals") Concert visuals
+  - article_list_for(nil, 'portfolio/visuals', 3)

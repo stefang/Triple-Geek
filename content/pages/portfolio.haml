@@ -1,4 +1,10 @@
 %h1 Portfolio
 
 %section.article_lists.portfolio
-  - article_list_for(nil, 'portfolio', 24)
+  %h2 
+    %a(href="portfolio/web") Websites
+  - article_list_for(nil, 'portfolio/web', 12)
+%section.article_lists.portfolio
+  %h2 
+    %a(href="portfolio/visuals") Concert visuals
+  - article_list_for(nil, 'portfolio/visuals', 12)

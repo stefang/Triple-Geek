@@ -1,11 +1,19 @@
 Date: 1 November 2010
-Categories: portfolio
+Categories: portfolio/web
 Tags: Design, Ruby on Rails, jQuery, HAML, SASS
 Image: infocow.jpg
 
 # Infocow
 
-![Alt text](/attachments/infocow.jpg "Infocow website front page")
+[![Alt text](/attachments/infocow.jpg "Infocow website front page")](http://infocow.org.uk)
+
+## A social network for sharing useful resources between young people
+
+<ul class="skills">
+  <li>UI design</li>
+  <li>Visual design</li>
+  <li>Front end development</li>
+</ul>
 
 [Jiva Technology](http://jivatechnology.com) were approached by [Futurelab](http://futurelab.org.uk) to design and build this social network site for collating useful resources for young people. Using the agile methodology we iterated through several versions, improving both the UX and the design / look & feel of the system based on feedback from stakeholders and young people.
 

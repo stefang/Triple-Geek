@@ -1,15 +1,22 @@
 Date: 30 June 2011
-Categories: portfolio
+Categories: portfolio/web
 Tags: UX, Design, Ruby on Rails, jQuery, HAML, SASS
 Image: rusic.jpg
 
 # Rusic
 
-![Alt text](/attachments/rusic.jpg "Rusic website front page")
+[![Alt text](/attachments/rusic.jpg "Rusic website front page")](http://rusic.com/)
+
+## A web application to create social websites
+
+<ul class="skills">
+  <li>UI design</li>
+  <li>Visual design</li>
+  <li>Front end development</li>
+</ul>
 
 Working with Simpleweb I designed and coded the initial front end of this idea collation and rating service. Written in Ruby on Rails by the [Simpleweb](http://simpleweb.co.uk/) in house developers I used HAML and SASS to skin the prototype front end and admin area &mdash; all designed "in the browser" and using CSS3 to provide richer styling without having to crack open Photoshop. [Rusic](http://rusic.com/) was rapidly developed and deployed and is has been used by Fat Face to run a "Face of Fat Face" competition using a custom theme designed by designers at Fat Face and implemented by the team at [Simpleweb](http://simpleweb.co.uk/). The site and admin design has now been taken forward from my initial prototype by the in-house Simplweb team.
 
 ### Elsewhere
 
 * [Rusic](http://rusic.com/)
-* [Simpleweb](http://simpleweb.co.uk/)
