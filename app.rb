@@ -21,14 +21,7 @@ module Nesta
   end
   module Navigation
     module Renderers
-      def article_list_for(header, path, count)
-        
-        if header
-          haml_tag :h2 do
-            haml_tag :a, header, :href => path
-          end
-        end
-        
+      def portfolio_list_for(path, count)
         haml_tag :ul do
           articles_in(path, count).each do |article|
             haml_tag :li do
@@ -41,7 +34,18 @@ module Nesta
             end
           end
         end
-
+      end
+      def article_list_for(path, count)
+        haml_tag :ul do
+          articles_in(path, count).each do |article|
+            haml_tag :li do
+              haml_tag :a, :href => article.abspath do
+                haml_tag :img, :src => "/attachments/#{article.image}", :alt => Sanitize.clean(article.heading), :title => Sanitize.clean(article.heading)
+                haml_tag :span, Sanitize.clean(article.heading), :class => 'heading'
+              end
+            end
+          end
+        end
       end
       def display_breadcrumbs(options = {})
         haml_tag :ul, :class => options[:class] do

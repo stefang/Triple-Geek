@@ -9,9 +9,9 @@ Nesta::Env.root = ::File.expand_path('.', ::File.dirname(__FILE__))
 require 'nesta/app'
 
 use Rack::Rewrite do
-  r301 %r{.*}, 'http://triplegeek.com$&', :if => Proc.new {|rack_env|
-    rack_env['SERVER_NAME'] != 'triplegeek.com'
-  }
+  # r301 %r{.*}, 'http://triplegeek.com$&', :if => Proc.new {|rack_env|
+  #   rack_env['SERVER_NAME'] != 'triplegeek.com'
+  # }
 
   r301 %r{/portfolio/tutorhub}, '/portfolio/web/tutorhub'
   r301 %r{/portfolio/perspectives}, '/portfolio/web/perspectives'
