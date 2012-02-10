@@ -20,6 +20,8 @@ The two bits of work I did that made it into the show were the disco floor anima
 
 *Fun fact: The LED screen arrays are 2 metres square yet only have a resolution of 48 pixels x 48 pixels.*
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/0RevNAjhBh0?rel=0" frameborder="0" allowfullscreen></iframe>
+
 ### Elsewhere
 
 * [Pulp @ Hyde Park on Flickr](http://www.flickr.com/photos/thegoodchild/sets/72157626989566141/)
