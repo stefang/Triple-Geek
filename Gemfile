@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'nesta', '0.9.11'
+gem 'nesta', '0.9.13'
 gem 'rack-rewrite', '~> 1.0.0'
 gem 'sanitize'
 

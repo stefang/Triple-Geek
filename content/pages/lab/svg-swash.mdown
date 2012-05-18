@@ -1,0 +1,10 @@
+Date: 18 May 2012
+Categories: lab
+Tags: SVG, Javascript
+Image: boyinthebubble.jpg
+
+# SVG Swash
+
+<div class="svg_swash">
+  <p>This is a technical demo. You needs to be using a modern browser for this to work. There are many ways to hack things to work in the browsers that must not be named and I'll make the effort for a client project. This is just the lab though. I don't do that here.</p>
+</div>
