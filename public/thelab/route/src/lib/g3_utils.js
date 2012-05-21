@@ -46,5 +46,18 @@ var g3 = {
     centre.y = (vector.y / div) + end.y;
     centre.x = (vector.x / div) + end.x;
     return centre;
+  },
+  
+  pos: function(e) {
+    if (e.touches) {
+      var t = e.touches[0];
+      var posx = t.pageX -  $(e.target).parent().offset().left; 
+      var posy = t.pageY -  $(e.target).parent().offset().top;   
+    } else {
+      var posx = e.pageX -  $(e.target).parent().offset().left; 
+      var posy = e.pageY -  $(e.target).parent().offset().top;   
+    }
+    return { x:posx, y:posy };
   }
+  
 };

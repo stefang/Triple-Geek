@@ -4,8 +4,8 @@ function G3RouteUi() {
   
   var init = function() {
     $('p.warning').remove();
-    g3_route.el.click(function(e){
-      routes.add(e.offsetX, e.offsetY);
+    g3_route.el.bind('mousedown' ,function(e){
+      routes.add(g3.pos(e).x, g3.pos(e).y);
     });
   };
   init();
