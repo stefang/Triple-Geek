@@ -48,15 +48,13 @@ var g3 = {
     return centre;
   },
   
-  pos: function(e) {
-    if (e.touches) {
-      var t = e.touches[0];
-      var posx = t.pageX -  $(e.target).parent().offset().left; 
-      var posy = t.pageY -  $(e.target).parent().offset().top;   
-    } else {
-      var posx = e.pageX -  $(e.target).parent().offset().left; 
-      var posy = e.pageY -  $(e.target).parent().offset().top;   
-    }
+  is_touch_device: function() {
+    return (typeof(window.ontouchstart) != 'undefined') ? true : false;
+  },
+  
+  pos: function(x, y, parent) {
+    var posx = x -  parent.offset().left; 
+    var posy = y -  parent.offset().top;   
     return { x:posx, y:posy };
   }
   

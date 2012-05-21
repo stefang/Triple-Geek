@@ -24,7 +24,3 @@ g3_route.launch = function(svg) {
   g3_route.svg = svg;
   g3_route.ui = new G3RouteUi();
 }
-
-g3_route.is_touch_device = function() {
-  return (typeof(window.ontouchstart) != 'undefined') ? true : false;
-}
