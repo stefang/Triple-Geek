@@ -11,4 +11,4 @@ Labjs: /thelab/mesh/g3_mesh.js?45678
 <div id="lab">
 </div>
 
-<p class="hint">Drag blue nodes to rearrange the mesh.</p>
+<p class="hint">Drag blue nodes to rearrange the mesh. Colour scheme inspired by <a href="http://www.behance.net/gallery/FilmWorks/4025305">Film Works poster</a> by <a href="http://www.patwa.co.uk">Derek Edwards</a></p>
