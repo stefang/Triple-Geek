@@ -4,11 +4,11 @@ Tags: SVG, Javascript
 Image: mesh.jpg
 Layout: thelab
 Support: g3
-Labjs: /thelab/mesh/g3_mesh.js?45678
+Labjs: /thelab/mesh/g3_mesh.js
 
 # Mesh
 
 <div id="lab">
 </div>
 
-<p class="hint">Drag blue nodes to rearrange the mesh. Colour scheme inspired by <a href="http://www.behance.net/gallery/FilmWorks/4025305">Film Works poster</a> by <a href="http://www.patwa.co.uk">Derek Edwards</a></p>
+<p class="hint">Drag blue nodes to rearrange the mesh. Node count based on a rough SVG performance test to try and give the best response. Colour scheme inspired by <a href="http://www.behance.net/gallery/FilmWorks/4025305">Film Works poster</a> by <a href="http://www.patwa.co.uk">Derek Edwards</a></p>

@@ -10,8 +10,7 @@ g3.svg.perf = {
       document.body.appendChild(svgtestnode);
       g3.svg.perf.create_circle(svgtestnode, count);
       end = new Date();
-      p = g3.utils.map(end - start, 26, 86, 20, 6);
-      return p;
+      return end - start;
     }
     svgtestnode.parentNode.removeChild(svgtestnode);
   },
