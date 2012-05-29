@@ -1,0 +1,14 @@
+Date: 29 May 2012
+Categories: lab
+Tags: SVG, Javascript
+Image: mesh.jpg
+Layout: thelab
+Support: g3
+Labjs: /thelab/mesh/g3_mesh.js?45678
+
+# Mesh
+
+<div id="lab">
+</div>
+
+<p class="hint">Drag blue nodes to rearrange the mesh.</p>

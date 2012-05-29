@@ -22,6 +22,8 @@
       %script(src="/javascripts/jquery.svg.pack.js")
       %script(src="/javascripts/jquery.svganim.pack.js")
       %script(src="/javascripts/jquery.svgdom.pack.js")
+    - if (@page && @page.metadata('support') === 'g3')
+      %script(src="/thelab/g3/g3.js")
     - if (@page && @page.metadata('labjs'))
       %script{:src => @page.metadata('labjs')}
     = haml :analytics, :layout => false
