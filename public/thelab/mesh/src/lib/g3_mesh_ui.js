@@ -8,7 +8,7 @@ function G3MeshUi() {
   var pos;
     
   var init = function() {
-    for ( var i=0; i < g3_mesh.perf + 3; i++ ) {
+    for ( var i=0; i < Math.floor(g3_mesh.perf-5) + 3; i++ ) {
       discs.push(new G3MeshDisc(i));
     }
     // Connections
