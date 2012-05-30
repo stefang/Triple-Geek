@@ -14,8 +14,8 @@ function G3MeshDisc(id) {
     r = (Math.random()*5)+10;
     dot = g3.svg.circle(disc, 0, 0, r, {
       'id': 'disc_'+id, 
-      'fill': '#2C96CA', 
-      'stroke': '#2e2e2e', 
+      'fill': '#f0783c', 
+      'stroke': '#eeeeee', 
       'stroke-width': 1, 
       'stroke-opacity': 0.5,
       'cursor': 'pointer'
@@ -42,7 +42,7 @@ function G3MeshDisc(id) {
       y=r*Math.sin(i* (Math.PI/180));
       x2=r*Math.cos((i+length)* (Math.PI/180));
       y2=r*Math.sin((i+length)* (Math.PI/180));
-      g3.svg.line(d, x, y, x2, y2, { 'stroke': '#fff', 'stroke-width': weight, 'stroke-opacity': 0.2 });
+      g3.svg.line(d, x, y, x2, y2, { 'stroke': '#000', 'stroke-width': weight, 'stroke-opacity': 0.2 });
     }
   };
   

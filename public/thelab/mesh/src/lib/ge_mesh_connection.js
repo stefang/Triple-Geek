@@ -12,13 +12,13 @@ function G3MeshConnection(d1, d2, g) {
   var set_style_from_vector = function() {
     if ( v.length < 150 ) {
       style = {
-        'stroke': '#2C96CA', 
+        'stroke': '#f0783c', 
         'stroke-width': 1 + (4 - v.length / 50), 
         'stroke-opacity': 1
       };
     } else {
       style = {
-        'stroke': '#ccc', 
+        'stroke': '#333', 
         'stroke-width': 1, 
         'stroke-opacity': alpha
       };
