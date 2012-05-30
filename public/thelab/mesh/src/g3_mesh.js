@@ -18,5 +18,5 @@ g3_mesh.init = function($el, url) {
   if (g3_mesh.svg = g3.svg.create(g3_mesh.el.attr('id'))) {
     g3_mesh.ui = new G3MeshUi();
   }
-  g3_mesh.svg.setAttribute('style', 'background-color: #eeeeee');
+  g3_mesh.svg.setAttribute('style', 'background-color: #f2f2f2');
 };

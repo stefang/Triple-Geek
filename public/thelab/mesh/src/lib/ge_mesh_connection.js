@@ -12,7 +12,7 @@ function G3MeshConnection(d1, d2, g) {
   var set_style_from_vector = function() {
     if ( v.length < 150 ) {
       style = {
-        'stroke': '#f0783c', 
+        'stroke': '#555', 
         'stroke-width': 1 + (4 - v.length / 50), 
         'stroke-opacity': 1
       };
