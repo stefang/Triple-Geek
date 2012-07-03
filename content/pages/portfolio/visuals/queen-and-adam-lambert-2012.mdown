@@ -20,7 +20,7 @@ Once again invited to be part of the [Rob Sinclair](http://www.robsinclair.com/)
 
 "I Want To Break Free" was also based on an earlier sketch, this time an online interactive I'd made in SVG and Javascript called Mesh which you can find [in the lab](/lab/mesh). Moved to a dark background to work well with the LED screens, given "life" and again made audio reactive.
 
-The first performance was in a huge square in Kiev in front of thousands and broadcast live on TV across eastern europe and you can glimpse my visuals during the performance.
+The first performance was in a huge square in Kiev in front of thousands and broadcast live on TV across eastern europe and behind the band below one of the most impressive lighting rigs I have ever seen you can just about glimpse my visuals during the performance.
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/flxIZD-vppA?t=56m9s" frameborder="0" allowfullscreen></iframe>
 
