@@ -12,6 +12,15 @@ Image: wallflower-1.png
     <li class="slide"><img src="/attachments/wallflower-3.png" alt="Wallflower"></li>
   </ul>
 </div>
+
+## Audio reactive concert visuals 
+
+<ul class="skills">
+  <li>Processing</li>
+  <li>After Effects</li>
+  <li>Final Cut Pro</li>
+</ul>
+
 *The initial article about the 2010 tour visuals is [here](/portfolio/peter-gabriel-new-blood-2010)*
 
 The tour machine rumbled round the globe and on it's way new songs were added to the set list. When it was due to be filmed the production needed some tweaks to existing content and some new content for the show and so I headed back &mdash; with the rest of the Content Stable &mdash; into the the rehearsal space and then onward to the Hammersmith Apollo.

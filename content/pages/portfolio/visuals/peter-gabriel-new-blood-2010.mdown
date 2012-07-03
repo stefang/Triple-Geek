@@ -7,6 +7,14 @@ Image: boyinthebubble.jpg
 
 ![Alt text](/attachments/boyinthebubble.jpg "Boy In The Bubble audio reactive visuals")
 
+## Audio reactive concert visuals 
+
+<ul class="skills">
+  <li>Processing</li>
+  <li>After Effects</li>
+  <li>Final Cut Pro</li>
+</ul>
+
 Whilst at Real World I had been playing around in my spare time with Processing creating little audio reactive animation sketches. For nearly as long [Marc Bessant](http://www.marcbessant.com/) (Creative Head of Design at Real World) had been trying to find a place where they could be used. After some false starts with other artists there was finally something that might just fit. Peter Gabriel had recorded an album of orchestral covers &mdash; called Scratch My Back &mdash; and in 2010 he was to take that album on the road. 
 
 The idea from the very beginning was to have the show be very visual based rather than the traditional "performer based" rock show and between [Marc](http://www.marcbessant.com/), Peter Gabriel and [Rob Sinclair](http://www.robsinclair.com/) they devised a striking stage setup of four massive ultra bright LED screens and a stark black, red and white colour scheme to run with during the first half of the show. Mixed in with the traditional animations they wanted something that appeared to be connected to the orchestra, almost as if they were the engine of a massive industrial machine and audio reactive seemed the way to go and so I joined the team of animators and programmers (collectively referred to by Rob as the Content Stable) already providing content for the show.
