@@ -2,6 +2,7 @@ Date: 1 June 2011
 Categories: portfolio/web
 Tags: Code, Design, Ruby on Rails, jQuery, HAML, SASS
 Image: eventstreams.jpg
+Flags: draft
 
 # Eventstreams
 
