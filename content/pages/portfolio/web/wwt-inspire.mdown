@@ -1,0 +1,22 @@
+Date: 04 July 2012
+Categories: portfolio/web
+Tags: HTML, CSS, Wordpress
+Image: wwt-inspire.jpg
+
+# WWT Inspiring Generations
+
+[![Alt text](/attachments/wwt-inspire.jpg "WWT Inspiring Generations website front page")](http://inspire.wwt.org.uk/)
+
+## A microsite celebrating 100 years since Scott of the Antarctic
+
+<ul class="skills">
+  <li>Visual design</li>
+  <li>Front end development</li>
+  <li>Wordpress theme development</li>
+</ul>
+
+Working with Ben Akin-Smith at [375](http://www.375.co.uk/) I co-designed &mdash; along with [Damian Connop](https://twitter.com/DamianConnop) of [Goram &amp; Vincent](http://goramandvincent.com/) &mdash; and developed the Wordpress theme for the [Inspiring Generations](http://inspire.wwt.org.uk/) microsite for the [Wildfowl and Wetlands Trust](wwt.org.uk) celebrating 100 years since the final letter from Captain Scott to his wife and child.
+
+### Elsewhere
+
+* [WWT Inpsire](http://inspire.wwt.org.uk/)
