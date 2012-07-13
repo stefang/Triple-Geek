@@ -1,11 +1,18 @@
 Date: 03 July 2012
 Categories: portfolio/visuals
 Tags: Code, Design, Motion Graphics, Video, openFrameworks
-Image: queen-dragon-attack.jpg
+Image: queen-break-free-hammersmith.jpg
 
 # Queen and Adam Lambert 2012
 
-![Alt text](/attachments/queen-dragon-attack.jpg "Dragon Attack audio reactive visuals")
+<div class="carousel">
+  <ul class="slider" id="slider1">
+    <li class="slide"><img src="/attachments/queen-break-free-hammersmith.jpg" alt="I Want To Break Free - Photo by Rob Sinclair"></li>
+    <li class="slide"><img src="/attachments/queen-dragon-attack-1-hammersmith.jpg" alt="Disco 2000"></li>
+    <li class="slide"><img src="/attachments/queen-dragon-attack-2-hammersmith.jpg" alt="Disco 2000"></li>
+    <li class="slide"><img src="/attachments/queen-dragon-attack-3-hammersmith.jpg" alt="Shot of the stage after the Pulp show in Hyde Park"></li>
+  </ul>
+</div>
 
 ## Concert visuals for the Queen tour with Adam Lambert 
 
@@ -20,13 +27,11 @@ Once again invited to be part of the [Rob Sinclair](http://www.robsinclair.com/)
 
 "I Want To Break Free" was also based on an earlier sketch, this time an online interactive I'd made in SVG and Javascript called Mesh which you can find [in the lab](/lab/mesh). Moved to a dark background to work well with the LED screens, given "life" and again made audio reactive.
 
-The first performance was in a huge square in Kiev in front of thousands and broadcast live on TV across eastern europe and behind the band below one of the most impressive lighting rigs I have ever seen you can just about glimpse my visuals during the performance.
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/flxIZD-vppA?t=56m9s" frameborder="0" allowfullscreen></iframe>
-
 ### The Queen 2012 Content Stable
 
 * [Rob Sinclair](http://www.robsinclair.com/) - Lighting Director
 * [Archie Sinclair](http://ditchweed.co.uk/)
 * Alex Rook
 * Stefan Goodchild
+
+Photos of Queen and Adam Lambert at the Hammersmith Apollo courtesy of [Rob Sinclair](http://www.robsinclair.com/)
