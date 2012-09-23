@@ -1,0 +1,36 @@
+Date: 01 September 2012
+Categories: portfolio/visuals
+Tags: Code, Design, Motion Graphics, Video, Processing
+Image: pet-shop-boys-berlin-01.jpg
+
+# Pet Shop Boys - Live in Berlin
+
+<div class="carousel">
+  <ul class="slider" id="slider1">
+    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-01.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
+    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-02.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
+    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-03.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
+    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-04.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
+    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-05.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
+  </ul>
+</div>
+
+## Concert visuals for the Pet Shop Boys
+
+<ul class="skills">
+  <li>Processing</li>
+  <li>After Effects</li>
+  <li>Final Cut Pro</li>
+  <li>Time Lapse Photography</li>
+</ul>
+
+Working for [Rob Sinclair](http://www.robsinclair.com/) with Alex Rook and [Matt Marchant](http://mattmarchant.co.uk) in the 'Content Stable' we created a series of videos for the recent one off Pet Shop Boys album launch concert in Berlin. 8 LCD screens displayed custom filmed video of the backing singers and a super wide projection onto a custom built curved screen. Every song was illustrated with a different visual, some audio reactive, some rendered. I also shot a bespoke time lapse of clouds for the song 'Leaving'.
+
+The whole concert was broadcast live and is available to [watch on YouTube](http://www.youtube.com/watch?v=M4R4Wa3XPF0) courtesy of [Electronic Beats](http://www.electronicbeats.net).
+
+### The Pet Shop Boys Content Stable
+
+* [Matt Marchant](http://mattmarchant.co.uk)
+* Alex Rook
+* Stefan Goodchild
+

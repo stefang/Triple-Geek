@@ -21,7 +21,7 @@ Image: queen-break-free-hammersmith.jpg
   <li>Final Cut Pro</li>
 </ul>
 
-Once again invited to be part of the [Rob Sinclair](http://www.robsinclair.com/) 'Content Stable' we headed to the LH2 to prepare visuals for the Queen tour with Adam Lambert. As Archie and Alex prepared video material I started work on audio reactive visuals for Dragon Attack and I Want To Break Free.
+Invited to be part of the [Rob Sinclair](http://www.robsinclair.com/) 'Content Stable' we headed to the LH2 to prepare visuals for the Queen tour with Adam Lambert. As Archie and Alex prepared video material I started work on audio reactive visuals for Dragon Attack and I Want To Break Free.
 
 "Dragon Attack" was based on an earlier non-realtime Processing sketch ([Fun With Sun](https://vimeo.com/44811394)) which was ported to openFrameworks to work in realtime, formatted for the superwide LED screen then plumbed into multitrack audio inputs to make it respond to the band.
 
@@ -29,7 +29,6 @@ Once again invited to be part of the [Rob Sinclair](http://www.robsinclair.com/)
 
 ### The Queen 2012 Content Stable
 
-* [Rob Sinclair](http://www.robsinclair.com/) - Lighting Director
 * [Archie Sinclair](http://ditchweed.co.uk/)
 * Alex Rook
 * Stefan Goodchild

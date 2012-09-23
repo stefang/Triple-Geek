@@ -1,0 +1,24 @@
+Date: 01 August 2012
+Categories: portfolio/web
+Tags: SVG, Javascript, Flash
+Image: building-the-games.jpg
+
+# GE Building The Games
+
+[![Alt text](/attachments/building-the-games.jpg "GE Building The Games Screenshot")](http://visualization.geblogs.com/visualization/infrastructure/)
+
+## An interactive data visualisation
+
+<ul class="skills">
+  <li>Javascript &amp; SVG</li>
+  <li>Flash</li>
+</ul>
+
+Working with the very talented infographic designer [Robin at Ripetungi](http://ripetungi.com) we created this interactive map to help tell the story of how GE products have been used to create the infrastructure of the London 2012 Olympic Games and then where these products will be distributed across the globe.
+
+Originally built in SVG and Javascript to work with the latest tablets and browsers I then ported it back to flash to allow it to run in almost all devices.
+
+### Elsewhere
+
+* [GE Building The Games](http://visualization.geblogs.com/visualization/infrastructure/)
+* [Robin's excellent post about the project](http://ripetungi.com/building-the-games/)

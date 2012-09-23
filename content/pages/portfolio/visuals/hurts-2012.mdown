@@ -1,0 +1,36 @@
+Date: 01 August 2012
+Categories: portfolio/visuals
+Tags: Code, Design, Motion Graphics, Video, Processing
+Image: hurts-01.jpg
+
+# Hurts 2012
+
+<div class="carousel">
+  <ul class="slider" id="slider1">
+    <li class="slide"><img src="/attachments/hurts-01.jpg" alt="Hurts Tours Visuals 1"></li>
+    <li class="slide"><img src="/attachments/hurts-02.jpg" alt="Hurts Tours Visuals 2"></li>
+    <li class="slide"><img src="/attachments/hurts-03.jpg" alt="Hurts Tours Visuals 3"></li>
+    <li class="slide"><img src="/attachments/hurts-04.jpg" alt="Hurts Tours Visuals 4"></li>
+    <li class="slide"><img src="/attachments/hurts-05.jpg" alt="Hurts Tours Visuals 5"></li>
+    <li class="slide"><img src="/attachments/hurts-06.jpg" alt="Hurts Tours Visuals 6"></li>
+    <li class="slide"><img src="/attachments/hurts-07.jpg" alt="Hurts Tours Visuals 7"></li>
+  </ul>
+</div>
+
+## Concert visuals for Hurts
+
+<ul class="skills">
+  <li>Processing</li>
+  <li>After Effects</li>
+  <li>Final Cut Pro</li>
+</ul>
+
+Working for [Rob Sinclair](http://www.robsinclair.com/) with [Archie Sinclair](http://ditchweed.co.uk/) in the 'Content Stable' we created a series of audio reactive and generative videos for the recent Hurts tour. The three huge risers, designed to allow the set to be wheeled on and off the stage quickly for festival appearances, had 5 high resolution wrap around LED screens. A mix of inspirations including early digital art and '30s avant garde film techniques brought up to date.
+
+*Photos curtesy of Rob Sinclair*
+
+### The Hurts Content Stable
+
+* [Archie Sinclair](http://ditchweed.co.uk/)
+* Stefan Goodchild
+

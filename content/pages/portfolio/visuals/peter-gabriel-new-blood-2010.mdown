@@ -23,7 +23,6 @@ Using Processing (an open source Java based visual programming language) I took 
 
 ### The Peter Gabriel 2010 Content Stable
 
-* [Rob Sinclair](http://www.robsinclair.com/) - Lighting Director
 * [Judy Jacob](http://www.beggarsvelvet.com/)
 * [Archie Sinclair](http://ditchweed.co.uk/)
 * [Dave Packer](http://sheepfilms.co.uk/)
@@ -32,6 +31,7 @@ Using Processing (an open source Java based visual programming language) I took 
 
 ### Props to
 
+* [Rob Sinclair](http://www.robsinclair.com/) - Lighting Director
 * [Marc Bessant](http://www.marcbessant.com/) - Creative Head of Design at Real World
 * [Peter Gabriel](http://www.petergabriel.com/)
 * [Blue Leach](http://http://www.blueleach.com/) - Live video manipulation
