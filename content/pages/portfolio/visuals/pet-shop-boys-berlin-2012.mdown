@@ -34,3 +34,11 @@ The whole concert was broadcast live and is available to [watch on YouTube](http
 * Alex Rook
 * Stefan Goodchild
 
+<div class="carousel wide">
+  <ul class="slider" id="slider2">
+    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-01.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
+    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-02.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
+    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-03.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
+    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-04.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
+  </ul>
+</div>
