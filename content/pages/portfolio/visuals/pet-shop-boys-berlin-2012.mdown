@@ -3,7 +3,7 @@ Categories: portfolio/visuals
 Tags: Code, Design, Motion Graphics, Video, Processing
 Image: pet-shop-boys-berlin-01.jpg
 
-# Pet Shop Boys - Live in Berlin
+# Pet Shop Boys - Live in Berlin 2012
 
 <div class="carousel">
   <ul class="slider" id="slider1">
