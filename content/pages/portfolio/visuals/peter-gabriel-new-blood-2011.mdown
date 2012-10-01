@@ -5,15 +5,7 @@ Image: wallflower-1.png
 
 # Peter Gabriel - New Blood 2011
 
-<div class="carousel">
-  <ul class="slider" id="slider1">
-    <li class="slide"><img src="/attachments/wallflower-1.png" alt="Wallflower"></li>
-    <li class="slide"><img src="/attachments/wallflower-2.png" alt="Wallflower"></li>
-    <li class="slide"><img src="/attachments/wallflower-3.png" alt="Wallflower"></li>
-  </ul>
-</div>
-
-## Audio reactive concert visuals 
+<section class="description">
 
 <ul class="skills">
   <li>Processing</li>
@@ -36,3 +28,11 @@ A mixture of animated Voronoi separation based on audio reactive particles bounc
 * [Dave Packer](http://sheepfilms.co.uk/)
 * [Benny Crime](http://www.bennycrime.com/)
 * Stefan Goodchild
+
+</section>
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/wallflower-1.png" alt="Wallflower"></li>
+  <li class="slide"><img src="/attachments/wallflower-2.png" alt="Wallflower"></li>
+  <li class="slide"><img src="/attachments/wallflower-3.png" alt="Wallflower"></li>
+</ul>

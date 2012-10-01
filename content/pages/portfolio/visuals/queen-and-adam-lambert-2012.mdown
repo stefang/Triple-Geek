@@ -5,17 +5,8 @@ Image: queen-break-free-hammersmith.jpg
 
 # Queen and Adam Lambert 2012
 
-<div class="carousel">
-  <ul class="slider" id="slider1">
-    <li class="slide"><img src="/attachments/queen-break-free-hammersmith.jpg" alt="I Want To Break Free - Photo by Rob Sinclair"></li>
-    <li class="slide"><img src="/attachments/queen-dragon-attack-1-hammersmith.jpg" alt="Disco 2000"></li>
-    <li class="slide"><img src="/attachments/queen-dragon-attack-2-hammersmith.jpg" alt="Disco 2000"></li>
-    <li class="slide"><img src="/attachments/queen-dragon-attack-3-hammersmith.jpg" alt="Shot of the stage after the Pulp show in Hyde Park"></li>
-  </ul>
-</div>
-
-## Concert visuals for the Queen tour with Adam Lambert 
-
+<section class="description">
+  
 <ul class="skills">
   <li>openFrameworks</li>
   <li>Final Cut Pro</li>
@@ -34,3 +25,13 @@ Invited to be part of the [Rob Sinclair](http://www.robsinclair.com/) 'Content S
 * Stefan Goodchild
 
 Photos of Queen and Adam Lambert at the Hammersmith Apollo courtesy of [Rob Sinclair](http://www.robsinclair.com/)
+
+</section>
+
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/queen-break-free-hammersmith.jpg" alt="I Want To Break Free - Photo by Rob Sinclair"></li>
+  <li class="slide"><img src="/attachments/queen-dragon-attack-1-hammersmith.jpg" alt="Disco 2000"></li>
+  <li class="slide"><img src="/attachments/queen-dragon-attack-2-hammersmith.jpg" alt="Disco 2000"></li>
+  <li class="slide"><img src="/attachments/queen-dragon-attack-3-hammersmith.jpg" alt="Shot of the stage after the Pulp show in Hyde Park"></li>
+</ul>

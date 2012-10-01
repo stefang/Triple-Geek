@@ -5,9 +5,7 @@ Image: boyinthebubble.jpg
 
 # Peter Gabriel - New Blood 2010
 
-![Alt text](/attachments/boyinthebubble.jpg "Boy In The Bubble audio reactive visuals")
-
-## Audio reactive concert visuals 
+<section class="description">
 
 <ul class="skills">
   <li>Processing</li>
@@ -35,3 +33,9 @@ Using Processing (an open source Java based visual programming language) I took 
 * [Marc Bessant](http://www.marcbessant.com/) - Creative Head of Design at Real World
 * [Peter Gabriel](http://www.petergabriel.com/)
 * [Blue Leach](http://http://www.blueleach.com/) - Live video manipulation
+
+</section>
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/boyinthebubble.jpg" alt="Boy in the bubble audio reactive visuals"></li>
+</ul>

@@ -5,17 +5,7 @@ Image: pet-shop-boys-berlin-01.jpg
 
 # Pet Shop Boys - Live in Berlin 2012
 
-<div class="carousel">
-  <ul class="slider" id="slider1">
-    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-01.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
-    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-02.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
-    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-03.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
-    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-04.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
-    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-05.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
-  </ul>
-</div>
-
-## Concert visuals for the Pet Shop Boys
+<section class="description">
 
 <ul class="skills">
   <li>Processing</li>
@@ -34,11 +24,19 @@ The whole concert was broadcast live and is available to [watch on YouTube](http
 * Alex Rook
 * Stefan Goodchild
 
-<div class="carousel wide">
-  <ul class="slider" id="slider2">
-    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-01.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
-    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-02.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
-    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-03.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
-    <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-04.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
-  </ul>
-</div>
+</section>
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/pet-shop-boys-berlin-01.jpg" alt="Pet Shop Boys - Berlin Visuals 1"></li>
+  <li class="slide"><img src="/attachments/pet-shop-boys-berlin-02.jpg" alt="Pet Shop Boys - Berlin Visuals 2"></li>
+  <li class="slide"><img src="/attachments/pet-shop-boys-berlin-03.jpg" alt="Pet Shop Boys - Berlin Visuals 3"></li>
+  <li class="slide"><img src="/attachments/pet-shop-boys-berlin-04.jpg" alt="Pet Shop Boys - Berlin Visuals 4"></li>
+  <li class="slide"><img src="/attachments/pet-shop-boys-berlin-05.jpg" alt="Pet Shop Boys - Berlin Visuals 5"></li>
+</ul>
+
+<ul class="image_group_full_width">
+  <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-01.jpg" alt="Pet Shop Boys - Berlin Visuals 6"></li>
+  <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-02.jpg" alt="Pet Shop Boys - Berlin Visuals 7"></li>
+  <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-03.jpg" alt="Pet Shop Boys - Berlin Visuals 8"></li>
+  <li class="slide"><img src="/attachments/pet-shop-boys-berlin-wide-04.jpg" alt="Pet Shop Boys - Berlin Visuals 9"></li>
+</ul>

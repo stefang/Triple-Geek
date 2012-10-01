@@ -5,16 +5,7 @@ Image: pulp-hydepark-showend.jpg
 
 # Pulp 2011
 
-<div class="carousel">
-  <ul class="slider" id="slider1">
-    <li class="slide"><img src="/attachments/pulp-hydepark-disco2000-1.jpg" alt="Disco 2000"></li>
-    <li class="slide"><img src="/attachments/pulp-hydepark-common-people-1.jpg" alt="Disco 2000"></li>
-    <li class="slide"><img src="/attachments/pulp-hydepark-common-people-2.jpg" alt="Disco 2000"></li>
-    <li class="slide"><img src="/attachments/pulp-hydepark-showend.jpg" alt="Shot of the stage after the Pulp show in Hyde Park"></li>
-  </ul>
-</div>
-
-## Concert visuals for the reunion tour 
+<section class="description">
 
 <ul class="skills">
   <li>Processing</li>
@@ -42,3 +33,11 @@ The Disco 2000 is available to [watch on YouTube](http://www.youtube.com/watch?v
 * [Matt Marchant](http://mattmarchant.co.uk)
 * Stefan Goodchild
 
+</section>
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/pulp-hydepark-disco2000-1.jpg" alt="Disco 2000"></li>
+  <li class="slide"><img src="/attachments/pulp-hydepark-common-people-1.jpg" alt="Disco 2000"></li>
+  <li class="slide"><img src="/attachments/pulp-hydepark-common-people-2.jpg" alt="Disco 2000"></li>
+  <li class="slide"><img src="/attachments/pulp-hydepark-showend.jpg" alt="Shot of the stage after the Pulp show in Hyde Park"></li>
+</ul>
