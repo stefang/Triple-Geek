@@ -11,4 +11,4 @@ Labjs: /thelab/mesh/g3_mesh.js
 <div id="lab">
 </div>
 
-<p class="hint">Drag blue nodes to rearrange the mesh. Node count based on a rough SVG performance test to try and give the best response.</p>
+<p class="hint">Drag pink nodes to rearrange the mesh. Node count based on a rough SVG performance test to try and give the best response.</p>
