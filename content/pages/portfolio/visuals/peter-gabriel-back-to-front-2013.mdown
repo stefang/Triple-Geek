@@ -1,0 +1,31 @@
+Date: 21 September 2013
+Categories: portfolio/visuals
+Tags: Code, Design, Motion Graphics, Video, Processing
+Image: peter-gabriel-back-to-front-01.jpg
+
+# Peter Gabriel - Back to Front 2012/2013
+
+<section class="description">
+
+<ul class="skills">
+  <li>openFrameworks</li>
+</ul>
+
+In August 2012 the merry band headed to Quebec City to work on the new Peter Gabriel tour. James Acres and I built two complex show applications to generate visuals in real time from audio analysis data and from Kinect depth data, both wired up with Artnet control so the systems could be controlled from the front of house lighting desks. In September 2013 during production rehearsals for the European leg of the tour I went back and tweaked the applications for the new PAL based show system and also create new content for the slightly altered set list.
+
+### The Peter Gabriel Back to Front Content Stable
+
+* [Rob Sinclair](http://www.robsinclair.com/) - Lighting Director
+* [Nev Bull](http://www.pixelsplus.co.uk/)
+* James Acres
+* Alex Rook
+* Stefan Goodchild
+
+</section>
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/peter-gabriel-back-to-front-01.jpg" alt="Peter Gabriel - Back to Front 2012/2013"></li>
+  <li class="slide"><img src="/attachments/peter-gabriel-back-to-front-02.jpg" alt="Peter Gabriel - Back to Front 2012/2013"></li>
+  <li class="slide"><img src="/attachments/peter-gabriel-back-to-front-03.jpg" alt="Peter Gabriel - Back to Front 2012/2013"></li>
+  <li class="slide"><img src="/attachments/peter-gabriel-back-to-front-04.jpg" alt="Peter Gabriel - Back to Front 2012/2013"></li>
+</ul>

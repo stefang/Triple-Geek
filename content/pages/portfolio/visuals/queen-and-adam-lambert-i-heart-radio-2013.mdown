@@ -1,0 +1,27 @@
+Date: 20 September 2013
+Categories: portfolio/visuals
+Tags: Code, Design, Motion Graphics, Video, openFrameworks
+Image: queen-i-heart-radio-04.jpg
+
+# Queen and Adam Lambert - I Heart Radio, Las Vegas 2013
+
+<section class="description">
+  
+<ul class="skills">
+  <li>Processing</li>
+  <li>Quartz Composer</li>
+  <li>After Effects</li>
+  <li>Premier</li>
+</ul>
+
+Working with [Rob Sinclair](http://www.robsinclair.com/), [Nev Bull](http://www.pixelsplus.co.uk/) and I prepped and prepared a mixture of real time generative and pre-rendered content for Queen and Adam Lambert's headline set at the I Heart Radio festival in Las Vegas. We used a variety of systems including After Effects, Quartz Composer and Processing.
+
+</section>
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/queen-i-heart-radio-01.jpg" alt="We Will Rock You"></li>
+  <li class="slide"><img src="/attachments/queen-i-heart-radio-02.jpg" alt="Crazy Little Thing Called Love"></li>
+  <li class="slide"><img src="/attachments/queen-i-heart-radio-03.jpg" alt="Dragon Attack"></li>
+  <li class="slide"><img src="/attachments/queen-i-heart-radio-04.jpg" alt="Dragon Attack"></li>
+  <li class="slide"><img src="/attachments/queen-i-heart-radio-05.jpg" alt="Dragon Attack"></li>
+</ul>
