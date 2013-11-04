@@ -1,0 +1,29 @@
+Date: 01 October 2013
+Categories: portfolio/visuals
+Tags: Motion Graphics, Video, 3D Animation, After Effects, Premier, Cinema 4D
+Image: birdy-01.jpg
+
+# Birdy 2013
+
+<section class="description">
+
+<ul class="skills">
+  <li>After Effects</li>
+  <li>Premier</li>
+  <li>Cinema 4D</li>
+</ul>
+
+Working for [Rob Sinclair](http://www.robsinclair.com/) I created a series of projection mapped visuals using a mixture of 3D animation, After Effects and self shot timelapse footage.
+
+*Photos courtesy of Rob Sinclair*
+
+</section>
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/birdy-01.jpg" alt="Birdy Tours Visuals 1"></li>
+  <li class="slide"><img src="/attachments/birdy-02.jpg" alt="Birdy Tours Visuals 2"></li>
+  <li class="slide"><img src="/attachments/birdy-03.jpg" alt="Birdy Tours Visuals 3"></li>
+  <li class="slide"><img src="/attachments/birdy-04.jpg" alt="Birdy Tours Visuals 4"></li>
+  <li class="slide"><img src="/attachments/birdy-05.jpg" alt="Birdy Tours Visuals 5"></li>
+  <li class="slide"><img src="/attachments/birdy-06.jpg" alt="Birdy Tours Visuals 6"></li>
+</ul>
