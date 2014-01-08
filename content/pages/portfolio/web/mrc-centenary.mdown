@@ -17,7 +17,7 @@ Design and build of a complex, custom Wordpress theme including an interactive t
 
 ### Elsewhere
 
-* [MRC Centenary](http://http://www.centenary.mrc.ac.uk/)
+* [MRC Centenary](http://www.centenary.mrc.ac.uk/)
 
 <ul class="image_group">
   <li class="slide"><img src="/attachments/mrc-centenary-home.jpg" alt="Birdy Tours Visuals 1"></li>

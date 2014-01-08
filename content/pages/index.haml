@@ -20,8 +20,20 @@
 
 %section.article_lists.portfolio
   %h2 
-    %a(href="portfolio") My Work
-  - portfolio_list_for('portfolio/visuals', 18)
+    %a(href="portfolio") 
+      Visuals
+      %span.amp
+        &amp;
+      Interactives
+  - portfolio_list_for('portfolio/visuals', 9)
+%section.article_lists.portfolio
+  %h2 
+    %a(href="portfolio/web") 
+      Web Applications 
+      %span.amp
+        &amp;
+      Websites
+  - portfolio_list_for('portfolio/web', 9)
 %section.article_lists.lab
   %h2 
     %a(href="lab") The Lab

@@ -1,0 +1,31 @@
+Date: 01 August 2013
+Categories: portfolio/web
+Tags: Angular
+Image: promap-home.jpg
+
+# Promap Export
+
+## Online mapping and data service.
+
+<ul class="skills">
+  <li>AngularJS</li>
+  <li>Openlayers</li>
+  <li>jQuery</li>
+  <li>HTML</li>
+</ul>
+
+Working for [CX Partners](http://www.cxpartners.co.uk/) and the developers at [Landmark](http://www.landmark.co.uk/) - who were creating the server side API - I developed the AngularJS based application [Promap Export](https://www2.promap.co.uk/) to interface with their new API to update their core mapping product for modern browsers and tablets based on the designs and interaction specifications developed at [CX Partners](http://www.cxpartners.co.uk/). 
+
+The browser based application allows a user to search for a location, see a map of that location both in an overview mapping view and, after registration, using the extremely detailed OS Mastermap view. The customer can then define an area on the map using drawing tools and receive the different available data export options for the defined area, and a quote for the cost of that data. As it's a single page application it was important to for it to remember state so customers can leave the application and come back later to find both searches and defined areas still intact.
+
+### Elsewhere
+
+* [Promap Export](https://www2.promap.co.uk/)
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/promap-home.jpg" alt="Promap - Home"></li>
+  <li class="slide"><img src="/attachments/promap-zoom.jpg" alt="Promap - Zoom"></li>
+  <li class="slide"><img src="/attachments/promap-search.jpg" alt="Promap - Search"></li>
+  <li class="slide"><img src="/attachments/promap-shape.jpg" alt="Promap - Shape"></li>
+  <li class="slide"><img src="/attachments/promap-basket.jpg" alt="Promap - Basket"></li>
+</ul>
