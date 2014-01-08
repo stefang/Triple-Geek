@@ -1,0 +1,29 @@
+Date: 01 December 2013
+Categories: portfolio/visuals
+Tags: Motion Graphics, Interaction, Kinect, Video, 3D Animation, Cinema 4D
+Image: ghostslug-screengrab.jpg
+
+# Ghost Slug Interactive
+
+<section class="description">
+
+<ul class="skills">
+  <li>openFrameworks</li>
+  <li>Kinect</li>
+  <li>Cinema 4D</li>
+</ul>
+
+I was tasked with creating an interactive exhibit for the press launch of the Wildlife Photographer of the Year exhibition at the MShed museum in Bristol that highlighted the new species of slug recently discovered in the UK called the Ghost Slug. I built and animated a 3D model of the slug and using openFrameworks I built an application to animate the slugs slowly moving across the floor of the entrance to the exhibition, leaving trails as they go. 
+
+The slug's movement was a simple forward motion towards the exhibit using Perlin noise fields to create random routes across the floor so it was never the same. I also utilised a Kinect camera to track visitor movement across the floor as people entered and left the exhibition and drew "trails" behind them as they went.
+
+The response was overwhelmingly positive (at least as positive as a slug based interactive could be!) and most people, once they realised it was interactive, spent a few fun minutes playing before entering the exhibit.
+
+</section>
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/ghostslug-screengrab.jpg" alt="Ghost Slug Interactive - Screen Grab"></li>
+  <li class="slide"><img src="/attachments/ghostslug-doorway.jpg" alt="Ghost Slug Interactive - Doorway view"></li>
+  <li class="slide"><img src="/attachments/ghostslug-floor-1.jpg" alt="Ghost Slug Interactive - Floor projection"></li>
+  <li class="slide"><img src="/attachments/ghostslug-floor-2.jpg" alt="Ghost Slug Interactive - Floor projection"></li>
+</ul>
