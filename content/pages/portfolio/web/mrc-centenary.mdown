@@ -1,0 +1,27 @@
+Date: 01 February 2013
+Categories: portfolio/web
+Tags: Wordpress
+Image: mrc-centenary-home.jpg
+
+# MRC Centenary Website
+
+## Website to highlight the MRC Centenary.
+
+<ul class="skills">
+  <li>Wordpress</li>
+  <li>HTML/CSS</li>
+  <li>jQuery</li>
+</ul>
+
+Design and build of a complex, custom Wordpress theme including an interactive timeline which can be administered from the Wordpress admin.
+
+### Elsewhere
+
+* [MRC Centenary](http://http://www.centenary.mrc.ac.uk/)
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/mrc-centenary-home.jpg" alt="Birdy Tours Visuals 1"></li>
+  <li class="slide"><img src="/attachments/mrc-centenary-timeline.jpg" alt="Birdy Tours Visuals 2"></li>
+  <li class="slide"><img src="/attachments/mrc-centenary-news.jpg" alt="Birdy Tours Visuals 3"></li>
+  <li class="slide"><img src="/attachments/mrc-centenary-poll.jpg" alt="Birdy Tours Visuals 4"></li>
+</ul>
