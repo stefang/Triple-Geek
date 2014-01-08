@@ -1,0 +1,22 @@
+Date: 01 November 2013
+Categories: portfolio/visuals
+Tags: Video, After Effects, Premier, GoPro
+Image: cheersdrive.jpg
+
+# Cheers, Drive!
+
+<section class="description">
+
+<ul class="skills">
+  <li>Filming (GoPro)</li>
+  <li>After Effects</li>
+  <li>Premier</li>
+</ul>
+
+Based on an earlier visual I had created for the Birdy Tour I re-cut the original footage I had filmed on a GoPro in and around Bristol to two tracks by Bristol based musicians, White Bully and Mr Benn. Widely shared on social media, including a retweet by Bristol's Mayor it proved to be popular. The curators of the Big Screen in Millennium Square, Bristol got in touch and it is now part of the rolling content on the screen which is seen by thousands of people each week.
+
+<div class="videoWrapper">
+  <iframe src="//player.vimeo.com/video/80801846?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen />
+</div>
+
+</section>
