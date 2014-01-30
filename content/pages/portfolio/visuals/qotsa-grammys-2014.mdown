@@ -1,0 +1,28 @@
+Date: 24 January 2014
+Categories: portfolio/visuals
+Tags: Processing, After Effects, Premier
+Image: qotsa-grammy-01.jpg
+
+# Queens of the Stone Age - Grammys 2014
+
+<section class="description">
+
+<ul class="skills">
+  <li>Processing</li>
+  <li>After Effects</li>
+</ul>
+
+Using Processing I rendered a series of layered loops of the physics based 'Fun With Sun' sketch I'd previously created as an experiment. [Judy Jacob](http://www.judyjacob.co.uk/) then used these to build her visual for the Queens of the Stone Age / Nine Inch Nails collaboration for the 2014 Grammys award show. Below is a layered excerpt of the combined loops. The final visuals used in the show included further elements from the music video.
+
+<div class="videoWrapper">
+  <iframe src="//player.vimeo.com/video/85467494?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+</section>
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/qotsa-grammy-02.jpg" alt="QOTSA - Grammys visual 1"></li>
+  <li class="slide"><img src="/attachments/qotsa-grammy-01.jpg" alt="QOTSA - Grammys visual 2"></li>
+  <li class="slide"><img src="/attachments/qotsa-grammy-03.jpg" alt="QOTSA - Grammys visual 3"></li>
+</ul>
+

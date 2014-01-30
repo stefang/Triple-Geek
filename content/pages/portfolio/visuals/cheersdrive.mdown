@@ -16,7 +16,7 @@ Image: cheersdrive.jpg
 Based on an visual I had created for the Birdy Tour earlier in the year I re-cut the footage I had filmed in and around Bristol to two tracks by Bristol based musicians, White Bully and Mr Benn. Widely shared on social media, including a retweet by Bristol's Mayor it proved to be popular. The curators of the Big Screen in Millennium Square, Bristol got in touch and it is now part of the rolling content on the screen which is seen by thousands of people each week.
 
 <div class="videoWrapper">
-  <iframe src="//player.vimeo.com/video/80801846?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen />
+  <iframe src="//player.vimeo.com/video/80801846?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 </section>
