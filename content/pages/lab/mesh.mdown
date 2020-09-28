@@ -4,7 +4,7 @@ Tags: SVG, Javascript
 Image: mesh.jpg
 Layout: thelab
 Support: g3
-Labjs: /thelab/mesh/g3_mesh.js
+Labjs: /g3/thelab/mesh/g3_mesh.js
 
 # Mesh
 

@@ -1,0 +1,35 @@
+Date: 10 Jan 2019
+Categories: portfolio/visuals
+Image: pbirds-10.jpeg
+
+# Poisonous Birds 2019
+
+<section class="description">
+
+<ul class="skills">
+  <li>Direction</li>
+  <li>Editing</li>
+  <li>Vectrex</li>
+</ul>
+
+A music video made for the Bristol post-rock duo, Poisonous Birds. The track, Big Water, deals with information overload in a digital age and uses volumetric projections of a Vectrex, a rare 80's games console which has been hacked to display custom vector imagery.
+
+Direction, Vectrex and Edit by Stefan Goodchild.
+Additional Direction and Camera by Thom Heald.
+
+<div class="videoWrapper">
+  <iframe src="//player.vimeo.com/video/328403162?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+</section>
+
+<ul class="image_group_full_width">
+  <li class="slide"><img src="/attachments/pbirds-1.jpeg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/pbirds-2.jpeg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/pbirds-3.jpeg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/pbirds-4.jpeg" alt="Rag n Bone Man Tour Visuals "></li>
+  <li class="slide"><img src="/attachments/pbirds-5.jpeg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/pbirds-6.jpeg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/pbirds-8.jpeg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/pbirds-9.jpeg" alt="Rag n Bone Man Tour Visuals"></li>
+</ul>

@@ -1,0 +1,29 @@
+Date: 15 September 2016
+Categories: portfolio/visuals
+Tags: Realtime, Modular, Video, 8 Bit
+Image: thl-05.jpg
+
+# The Human League 2016
+
+<section class="description">
+
+<ul class="skills">
+  <li>After Effects</li>
+  <li>Processing</li>
+  <li>Unity</li>
+</ul>
+
+Rendered tour visuals for several songs for The Human League for their latest tour and festival appearences.
+
+</section>
+
+<ul class="image_group">
+  <li class="slide"><img src="/attachments/thl-01.jpg" alt="The Human League Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/thl-02.jpg" alt="The Human League Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/thl-03.jpg" alt="The Human League Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/thl-04.jpg" alt="The Human League Tour Visuals "></li>
+  <li class="slide"><img src="/attachments/thl-05.jpg" alt="The Human League Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/thl-06.jpg" alt="The Human League Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/thl-07.jpg" alt="The Human League Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/thl-08.jpg" alt="The Human League Tour Visuals"></li>
+</ul>

@@ -1,0 +1,29 @@
+Date: 1 Nov 2019
+Categories: portfolio/visuals
+Image: sequences-title.jpg
+
+# Ryan Davis & Alex Banks 2019
+
+<section class="description">
+
+<ul class="skills">
+<li>Unity</li>
+<li>Visual Effects Graph</li>
+</ul>
+
+Official music video for the track "Sequences" by Ryan Davis & Alex Banks released on Just This in November 2019. Created entirely in the Unity game engine, primarily using the Visual Effects Graph to create audio reactive particle effects. Designed to run in real time at 1080p.
+
+<div class="videoWrapper">
+<iframe src="//player.vimeo.com/video/439232024?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+</section>
+
+<ul class="image_group_full_width">
+    <li class="slide"><img src="/attachments/sequences-1.jpg" alt="Sequences - Official Music Video"></li>
+    <li class="slide"><img src="/attachments/sequences-2.jpg" alt="Sequences - Official Music Video"></li>
+    <li class="slide"><img src="/attachments/sequences-3.jpg" alt="Sequences - Official Music Video"></li>
+    <li class="slide"><img src="/attachments/sequences-4.jpg" alt="Sequences - Official Music Video "></li>
+    <li class="slide"><img src="/attachments/sequences-5.jpg" alt="Sequences - Official Music Video"></li>
+    <li class="slide"><img src="/attachments/sequences-6.jpg" alt="Sequences - Official Music Video"></li>
+</ul>

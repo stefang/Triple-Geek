@@ -1,0 +1,39 @@
+Date: 15 April 2016
+Categories: portfolio/visuals
+Tags: Realtime, Modular, Video, 8 Bit
+Image: lcdss-09.jpg
+
+# LCD Soundsystem 2016
+
+<section class="description">
+
+<ul class="skills">
+  <li>Ming Micro</li>
+  <li>Modular Eurorack Video Synthesis</li>
+  <li>3trinsrgb+1c analog video synth</li>
+  <li>Oscilloscope Drawing</li>
+</ul>
+
+Working again with [Rob Sinclair](http://www.robsinclair.com/) and [Nev Bull](http://www.pixelsplus.co.uk) I had a brief of creating realtime audio reactive visuals using only retro, modular or analog hardware. No custom software, no renders, just real hardware patched and played just how the band make the music on stage. None of the systems we used had ever been used in real time on a large scale project like this before as far as I'm aware.
+
+I used a modular video synth based round the [LZX Industries Visual Cortex](https://www.lzxindustries.net/product/visual-cortex/) unit to create audio reactive analog video designs. The rack is pictured below and 'patches' had to be saved by drawing on a printout of the unit facias to show what connects to what, and what settings to use. Also in the rack was a [3trinsrgb+1c](http://bleeplabs.com/store/3trinsrgb1/) analog video synth which I used in several songs.
+
+Also used were two prototype [Ming Micros](https://www.youtube.com/watch?v=OG16jchr8bY) which are 8 bit digital video synthesisers that create imagary and animations rereminiscent of the original Atari 2600 games console with similar limitations. These I controlled via MIDI using a custom VDMX layout to sequence and control the parameters. Content was designed using a pixel art package and a supplied Processing sketch that converts the png images into conpatable text files which are read by the Ming.
+
+Finally, I found some nice old oscilloscopes and rendered predefined audio to mix in with the band audio to create interesting shapes and patterns while the scope was in XY mode, this was captured live during the performance using a fish eye camera and put up on the LED wall.
+
+First four photos curtesey of Faber AV.
+
+</section>
+
+<ul class="image_group_large">
+  <li class="slide"><img src="/attachments/lcdss-09.jpg" alt="LCD Soundsystem Tour Visuals LZX Visual Coretex"></li>
+  <li class="slide"><img src="/attachments/lcdss-01.jpg" alt="LCD Soundsystem Tour Visuals Oscilloscope"></li>
+  <li class="slide"><img src="/attachments/lcdss-02.jpg" alt="LCD Soundsystem Tour Visuals 3trinsrgb+1c and video feedback"></li>
+  <li class="slide"><img src="/attachments/lcdss-03.jpg" alt="LCD Soundsystem Tour Visuals Stefan Goodchild at the video rack"></li>
+  <li class="slide"><img src="/attachments/lcdss-04.jpg" alt="LCD Soundsystem Tour Visuals Ming Micro"></li>
+  <li class="slide"><img src="/attachments/lcdss-05.jpg" alt="LCD Soundsystem Tour Visuals 3trinsrgb+1c"></li>
+  <li class="slide"><img src="/attachments/lcdss-06.jpg" alt="LCD Soundsystem Tour Visuals 3trinsrgb+1c"></li>
+  <li class="slide"><img src="/attachments/lcdss-07.jpg" alt="LCD Soundsystem Tour Visuals The Rack up close"></li>
+  <li class="slide"><img src="/attachments/lcdss-08.jpg" alt="LCD Soundsystem Tour Visuals A pair of Ming Micros"></li>
+</ul>

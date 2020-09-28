@@ -1,0 +1,45 @@
+Date: 10 June 2017
+Categories: portfolio/visuals
+Image: rnbman-15.jpg
+
+# Rag n Bone Man 2017
+
+<section class="description">
+
+<ul class="skills">
+  <li>After Effects</li>
+  <li>Cinema 4D</li>
+  <li>Unity</li>
+</ul>
+
+Rendered tour visuals for the Rag n Bone Man performance at the Capital Radio Summer Ball
+
+<div class="videoWrapper">
+  <iframe src="https://www.youtube.com/embed/5FpQ8vPnjCk?rel=0&amp;showinfo=0" width="1280" height="720" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</section>
+<section class="description">
+
+<div class="videoWrapper">
+  <iframe src="https://www.youtube.com/embed/DtNgjuHw9lo?rel=0&amp;showinfo=0" width="1280" height="720" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</section>
+
+
+<ul class="image_group_full_width">
+  <li class="slide"><img src="/attachments/rnbman-1.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/rnbman-2.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/rnbman-3.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/rnbman-4.jpg" alt="Rag n Bone Man Tour Visuals "></li>
+  <li class="slide"><img src="/attachments/rnbman-5.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/rnbman-6.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/rnbman-8.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/rnbman-9.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/rnbman-10.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/rnbman-11.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/rnbman-12.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/rnbman-13.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+  <li class="slide"><img src="/attachments/rnbman-14.jpg" alt="Rag n Bone Man Tour Visuals"></li>
+</ul>

@@ -1,0 +1,30 @@
+Date: 2 June 2016
+Categories: portfolio/web
+Tags: HTML5, Javascript, Typescript
+Image: bbc-shakes-1_43.jpg
+
+# Which Shakespeare character are you? (Aardman / RSC / BBC Bytesize)
+
+<section class="description">
+
+<ul class="skills">
+  <li>HTML5</li>
+  <li>Typescript</li>
+  <li>Javascript</li>
+  <li>CSS</li>
+</ul>
+
+Designed to aid in GCSE revision this fun interactive toy, made with Aardman, the BBC and the Royal Shakesphere Company, will ask you a series of simple questions. Based on your answers it will assign you a character which you can dress up and place on stage. You can then play associated quotes, voiced by RSC actors, along with a comedy audio reactive mouth animation.
+
+You can try out the game for yourself at <a href="http://www.bbc.co.uk/guides/zspsdmn">the BBC's Bytesize website</a>
+
+</section>
+
+<ul class="image_group_large">
+  <li class="slide"><img src="/attachments/bbc-shakes-1.jpg" alt="BBC Bytesize Shakespear Character Screen Shot"></li>
+  <li class="slide"><img src="/attachments/bbc-shakes-2.jpg" alt="BBC Bytesize Shakespear Character Screen Shot"></li>
+  <li class="slide"><img src="/attachments/bbc-shakes-3.jpg" alt="BBC Bytesize Shakespear Character Screen Shot"></li>
+  <li class="slide"><img src="/attachments/bbc-shakes-4.jpg" alt="BBC Bytesize Shakespear Character Screen Shot"></li>
+  <li class="slide"><img src="/attachments/bbc-shakes-5.jpg" alt="BBC Bytesize Shakespear Character Screen Shot"></li>
+</ul>
+

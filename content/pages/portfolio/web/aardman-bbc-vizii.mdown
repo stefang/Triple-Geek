@@ -1,0 +1,41 @@
+Date: 2 February 2015
+Categories: portfolio/web
+Tags: Phaser, Javascript, Typescript
+Image: aardman-bbc-vizii-01.jpg
+
+# Vizii (Aardman / BBC)
+
+<section class="description">
+
+<ul class="skills">
+  <li>PhaserJS</li>
+  <li>Typescript</li>
+  <li>Javascript</li>
+</ul>
+
+Following on from Technobabble I and Tom Milner extended the system to add a whole raft of new features to enable people to create thier own music visualisers.
+
+We added a whole audio reactive system that enables you to link up the amplitude of the bass, mid or treble to various different settings of an object. Scale, movement etc were all linkable to the audio. We also created a complex pattern system to create complex geometric patterns from simple source sprites. This also was audio reactive and even had a ripple delay setting to ripple the reaction out from the centre object.
+
+Additionally we created a complex timline system and UI that enabled you to set in and out points, snapped to the bar or beat, and transitions to allow the user to create complex narratives. We also added a lyric component that allowed users to place the song lyrics on the stage, working with both the timeline and the audio reaction system. Finally we added a webGL filters system, also audio reactive and supported on the timeline.
+
+This system we created has been extended and re-skinned several times now for different brands including Eastenders, Dr Who, Children in Need and many others.
+
+You can try out the system for yourself at <a href="https://www.mixital.co.uk/channel/bbc-introducing-vizii">the BBC's Mixital website</a> 
+
+Here's a great instruction video from the BBC that takes you through the basics in just a few minutes..
+
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/NsiaWLHVru0" frameborder="0" allowfullscreen></iframe></div>
+
+
+</section>
+
+<ul class="image_group_large">
+  <li class="slide"><img src="/attachments/aardman-bbc-vizii-01.jpg" alt="BBC Vizii Screen Shot"></li>
+  <li class="slide"><img src="/attachments/aardman-bbc-vizii-02.jpg" alt="BBC Vizii Screen Shot"></li>
+  <li class="slide"><img src="/attachments/aardman-bbc-vizii-03.jpg" alt="BBC Vizii Screen Shot"></li>
+  <li class="slide"><img src="/attachments/aardman-bbc-vizii-04.jpg" alt="BBC Vizii Screen Shot"></li>
+  <li class="slide"><img src="/attachments/aardman-bbc-vizii-05.jpg" alt="BBC Vizii Screen Shot"></li>
+  <li class="slide"><img src="/attachments/aardman-bbc-vizii-06.jpg" alt="BBC Vizii Screen Shot"></li>
+</ul>
+

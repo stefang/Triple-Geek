@@ -4,7 +4,7 @@ Tags: SVG, Javascript
 Image: route.jpg
 Layout: thelab
 Support: svg
-Labjs: /thelab/route/g3_route.js
+Labjs: /g3/thelab/route/g3_route.js
 
 # Route
 

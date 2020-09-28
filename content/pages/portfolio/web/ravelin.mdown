@@ -1,0 +1,25 @@
+Date: 1 Dec 2015
+Categories: portfolio/web
+Tags: Phaser, Javascript, Typescript
+Image: ravelin-01.jpg
+
+# Ravelin Header Interactive Animation
+
+<section class="description">
+
+<ul class="skills">
+  <li>Three JS</li>
+  <li>Typescript</li>
+  <li>Javascript</li>
+</ul>
+
+A quick job creating an interactive header animation for Ravelin, an internet security company. Using ThreeJS to build a 3D landscape with data points and an overlayed logo which has custom labels relating to various functions of their service.
+
+You can see the header for yourself at <a href="http://www.ravelin.com/">the Ravelin website</a>
+
+</section>
+
+<ul class="image_group_large">
+  <li class="slide"><img src="/attachments/ravelin-01.jpg" alt="Ravelin Cover Image"></li>
+</ul>
+

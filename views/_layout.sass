@@ -99,7 +99,7 @@ body
           border-left: 0
   section.description
     width: 66%
-  ul.image_group, ul.image_group_full_width
+  ul.image_group, ul.image_group_full_width, ul.image_group_large
     overflow: auto
     li
       margin-bottom: 2%
@@ -116,6 +116,15 @@ body
       width: 32%
     li:nth-child(3n+3)
       margin-right: 0px
+
+  ul.image_group_large
+    li
+      float: left
+      margin-right: 2%
+      width: 48%
+    li:nth-child(2n+2)
+      margin-right: 0px
+
     
   ul.image_group_full_width
     li
